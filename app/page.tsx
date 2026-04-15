@@ -78,7 +78,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="md:col-span-2">
-                <h3 className="text-2xl font-bold text-gray-800 mb-3">太郎 花子</h3>
+                <h3 className="text-2xl font-bold text-gray-800 mb-3">馬場 海斗</h3>
                 <p className="text-gray-700 text-lg leading-relaxed mb-4">
                   こんにちは。私は、テクノロジーと研究に情熱を持つプロフェッショナルです。
                 </p>
